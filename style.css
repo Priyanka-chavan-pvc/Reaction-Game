@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+#gameBox {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  display: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
